@@ -1,5 +1,12 @@
 fafsda
 
 
+<<<<<<< HEAD
 other file is a exisit
 
+=======
+other file is exisit
+
+do a great job ok 
+done
+>>>>>>> feature1
