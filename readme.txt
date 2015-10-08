@@ -17,4 +17,4 @@ add new branche feature
 
 
 ok change
-
+fix a bug on readme
